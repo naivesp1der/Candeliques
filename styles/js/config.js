@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Candeliques",
-  url: " https://naivesp1der.github.io/Candeliques/masterlist.html",
+  url: " https://naivesp1der.github.io/Candeliques",
   description: `Official page for Candeliques`
 }
 

@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Candeliques",
-  url: "https://www.Candeliques.com/",
+  url: " https://naivesp1der.github.io/Candeliques/masterlist.html",
   description: `A tool for organizing small ARPGs and species.`
 }
 
